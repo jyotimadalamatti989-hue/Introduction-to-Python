@@ -6,10 +6,14 @@ Python is one of the most popular, versatile, and beginner-friendly programming 
  Think of a variable as a labeled storage box in the computer's memory. You can store data inside this box and change it later. The label is the variable's name.
  # Data Types:
   This specifies what kind of data is stored inside that box. Computers process different types of data differently.
- # (Integer): Whole numbers without decimals. (e.g., age = 25, temperature = -5)
- # float (Floating-point): Numbers containing decimal points. (e.g., price = 99.99, pi = 3.14159)
-# (String): Textual data enclosed in single or double quotes. (e.g., name = "Alice", greeting = 'Hello')
-# bool (Boolean): Represents logical states. It can only hold one of two values: True or False. (e.g., is_ logged_ in = True)
+ # (Integer): 
+ Whole numbers without decimals. (e.g., age = 25, temperature = -5)
+ # float (Floating-point): 
+ Numbers containing decimal points. (e.g., price = 99.99, pi = 3.14159)
+# (String): 
+Textual data enclosed in single or double quotes. (e.g., name = "Alice", greeting = 'Hello')
+# bool (Boolean):
+Represents logical states. It can only hold one of two values: True or False. (e.g., is_ logged_ in = True)
 
 # 2. Input and Output Operations:
 Programs need to interact with users. This is done by taking data in and sending data out.
